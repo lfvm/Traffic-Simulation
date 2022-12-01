@@ -1,6 +1,6 @@
 # Traffic Simulation
 
-## Manual de Instalación
+## Instalation Manual
 
 #### Miniconda
 
