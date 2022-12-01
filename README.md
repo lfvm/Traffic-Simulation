@@ -55,7 +55,7 @@ When you are in this new folder just run python server.py to run the server flas
 If you decided to run the flask server, you will need to open the unity project and play the scene called BuildCity.
 
 
-## Collaborators
+## Contributors
 
 - [@Fernando Valdeon](https://github.com/lfvm)
 - [@Marco Torres](https://github.com/marcotorresx)
