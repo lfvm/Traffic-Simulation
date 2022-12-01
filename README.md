@@ -52,4 +52,11 @@ If you are in the parent folder, redirect yourself to the folder 2D_SImulation w
 
 When you are in this new folder just run python server.py to run the server flask for it to work in unity. Or run server_2D.py, to run the simulation on html and in 2D.
 
-If you decided to run the flask server, you will need to open the unity project and play the scene called BuildCity
+If you decided to run the flask server, you will need to open the unity project and play the scene called BuildCity.
+
+
+## Collaborators
+
+- [@Fernando Valdeon](https://github.com/lfvm)
+- [@Marco Torres](https://github.com/marcotorresx)
+- [@Diego Araque](https://github.com/DiegoAraque21)
